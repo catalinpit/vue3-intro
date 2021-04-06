@@ -1,7 +1,8 @@
 const app = Vue.createApp({
     data() {
         return {
-            allCourses: 0
+            allCourses: 1,
+            paid: true
         }
     }
 })
